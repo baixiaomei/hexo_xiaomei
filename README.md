@@ -1,0 +1,2 @@
+# hexo_xiaomei
+这是一个基于hexo模板用markdown编写的技术博客
