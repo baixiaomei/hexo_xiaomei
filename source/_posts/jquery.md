@@ -50,6 +50,7 @@ Vue.use(VueI18n) // 引入
 
 // 在src中新建一个lang的文件夹，里面写一个cn.js  一个en.js
 在en.js里
+
 export default {
 	branner: {
     title: 'POWER LINKS',
